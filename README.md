@@ -20,7 +20,7 @@ Prerequisites:
 
 Steps:
 
-* Clone the Repository from:
+* Clone the Repository from: https://github.com/ZoricaMarkovic/grocery-store-api-tests.git
 * Run mvn clean install
 
 ## Framework structure
@@ -42,12 +42,12 @@ JSON Serialization and Deserialization is used to prepare and read JSON data for
 
 Built with:
 
-* [Rest-assured] (https://rest-assured.io/) - Intuitive library for testing Rest APIs
+* [Rest-Assured] (https://rest-assured.io/) - Intuitive library for testing Rest APIs
 * [TestNG] (https://testng.org/) - Test runner for Java
 * [Jackson] (https://github.com/FasterXML/jackson) - Library of choice when it comes to (de)serialization of JSON
 * [AssertJ] (https://assertj.github.io/doc/) - assertion library
 
-## Reporting
+## Running tests
 
 
 The whole suite can be run using suite.xml.
